@@ -12,8 +12,7 @@
 
 - SaaS Business Development
 - Digital Marketing
-- CRO
-- Web Engineering (JavaScript, Java, Scala)
+- Web Engineering
 
 ## Blog
 
